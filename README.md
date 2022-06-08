@@ -1,6 +1,4 @@
 # WOW-Portal-Creator
-Trinity Core Wrath of the Lich King Scripts, Programs and other projects.
-
 Trinity Core Portal Generator
 For 3.3.5a
 
