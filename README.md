@@ -2,7 +2,7 @@
 Trinity Core Portal Generator
 For 3.3.5a trinitycore 2016 | 2022
 
-([http://url/to/img.png](https://i.ibb.co/0D3rvwg/demo.jpg))
+![plot]([xxx](https://i.ibb.co/0D3rvwg/demo.jpg))
 
 
 This stand-alone application needs no database connection to generate SQL inserts you can run on your database. It can easily create a working portal to any location in Vanilla, Burning Crusade or Wrath or the Lich King.
