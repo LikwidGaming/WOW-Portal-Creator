@@ -1,6 +1,6 @@
 # WOW-Portal-Creator
 Trinity Core Portal Generator
-For 3.3.5a
+For 3.3.5a trinitycore 2016 | 2022
 
 ![Main Screenshot](https://i.ibb.co/BccX596/screenshot1.jpg "Main Screenshot")
 
